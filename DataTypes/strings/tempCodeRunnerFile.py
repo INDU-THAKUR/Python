@@ -1,0 +1,1 @@
+print(greeting[0:15:2])
