@@ -1,18 +1,18 @@
-a=3
-b=4
+a=int(input("Enter first number:"))
+b=int(input("Enter second number:"))
 
-print("the value of 3+4 is ",3+4)
-print("the value of 3-4 is ",3-4)
-print("the value of 3*4 is ",3*4)
-print("the value of 3/4 is ",3/4)
-print("the value of 3**4 is ",3**4)
-print("the value of 3//4 is ",3//4)
-print("the value of 3%4 is ",3%4)   # arithmetic operators
-print("the value of 3+4 is ",3>4)
-print("the value of 3+4 is ",3<4)
-print("the value of 3+4 is ",3==4)
-print("the value of 3+4 is ",3!=4)
-print("the value of 3+4 is ",3>=4)
-print("the value of 3+4 is ",3<=4)  # relational operator
+print("the value of a+b is ",a+b)
+print("the value of a-b is ",a-b)
+print("the value of a*b is ",a*b)
+print("the value of a/b is ",a/b)
+print("the value of a**b is ",a**b)
+print("the value of a//b is ",a//b)
+print("the value of a%b is ",a%b)   # arithmetic operators
+print("the value of a>b is ",a>b)
+print("the value of a<b is ",a<b)
+print("the value of a==b is ",a==b)
+print("the value of a!=b is ",a!=b)
+print("the value of a>=b is ",a>=b)
+print("the value of a<=bis ",a<=b)  # relational operator
 a=+5
 print(a)
